@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/shuaiadong/webpack-learning/issues"
   },
-  "homepage": "https://github.com/shuaiadong/webpack-learning#readme"
+  "homepage": "https://github.com/shuaiadong/webpack-learning#readme",
+  "devDependencies": {
+    "webpack": "^4.21.0",
+    "webpack-cli": "^3.1.2"
+  }
 }
