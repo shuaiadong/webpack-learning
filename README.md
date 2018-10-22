@@ -30,3 +30,5 @@ webpack4 学习
         ]
     };
 ```
+## 3 css tree shaking
+- npm install style-loader css-loader -D
